@@ -1,4 +1,4 @@
-# Learning-Language
+# Natural-Language
 # Learning Path: Natural Language Processing (NLP)
 
 ## 1. Fundamentals
